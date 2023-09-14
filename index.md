@@ -9,3 +9,6 @@ Each topic will further delve into 3 parts:
 - **Engine room**: Essential knowledge for engineers,
 - **Prod**: Bring it to life by detailing how I implemented the technology in crafting a golf app.
  
+## Topics
+
+- [Graph Databases](databases/graph.md)
